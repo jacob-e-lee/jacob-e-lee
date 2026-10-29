@@ -10,8 +10,12 @@ https://badges.pages.dev/
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
+<!--
 | - 🎓 Computer Engineering student at Virginia Tech<br>- 👀 I’m interested in all aspects of programming, robotics, and all things interesting.<br><br>![Stats](./profile/stats.svg) | [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jacob-e-lee)](https://github.com/LordDashMe/github-contribution-stats/) |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+-->
+
+
 <!--
 - 🎓 Computer Engineering student at Virginia Tech
 - 👀 I’m interested in all aspects of programming, robotics, and all things interesting.
